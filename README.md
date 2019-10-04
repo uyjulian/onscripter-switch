@@ -5,7 +5,7 @@ SDL2 build fixes from https://bitbucket.org/jh10001/onscripter-jh are included i
 
 ## Building
 
-After installing the preresiqute libraries from `dkp-pacman`, a simple `make` will generate `onscripter.nro`.
+After installing the preresiqute libraries from `dkp-pacman`, a simple `make` will generate `onscripter-switch.nro`.
 
 ## RomFS Integration
 

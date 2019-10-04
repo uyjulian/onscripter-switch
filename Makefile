@@ -44,6 +44,11 @@ DATA		:=	data
 INCLUDES	:=	include
 #ROMFS	:=	romfs
 
+APP_TITLE   := ONScripter
+APP_AUTHOR  := Studio O.G.A.
+APP_VERSION := 1.0.0
+APP_TITLEID := CFD7804195B3234D
+
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
